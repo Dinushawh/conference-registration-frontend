@@ -32,7 +32,7 @@ const Header: React.FC = () => {
             }}
           >
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              CodeFusion
+              ConferenceRegistarion
             </Typography>
             <Box display="flex" alignItems="center">
               <Button color="inherit" onClick={registernow}>
